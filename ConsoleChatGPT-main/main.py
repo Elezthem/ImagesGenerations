@@ -1,7 +1,7 @@
 import openai
 import requests
 
-KEY = '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'
+KEY = 'KEY'
 
 # openai.api_key = KEY
 #
